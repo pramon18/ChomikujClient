@@ -1,0 +1,989 @@
+<ChomikBox.Chomik: pabloramon044>,1,Dokumenty,<ChomikBox.Chomik: pabloramon044>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,2,Galeria,<ChomikBox.Chomik: pabloramon044>,False,False,True,None
+<ChomikBox.Chomik: pabloramon044>,1070,pasta_Teste,<ChomikBox.Chomik: pabloramon044>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,5,Animes,<ChomikBox.ChomikFolder: "/pasta_Teste/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,4,[C] The Money of Soul and Possibility Control,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,9,009-1,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,7,07 Ghost,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,10,11 Eyes,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,14,12 Sai Chicchana Mune no Tokimeki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,15,12 Sai Chicchana Mune no Tokimeki II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,16,A Channel,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,17,Accel World,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,18,Acchi Kocchi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,19,Ah! Megami Sama,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,20,Ah! Megami Sama - Itsumo Futari de,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,21,Ah! Megami Sama - Sorezore no Tsubasa,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,22,Ah! Megami Sama - Tatakau Tsubasa,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,23,Ah! Megami-Sama - Chicchaitte Koto wa Benridane,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,24,Ai Tenchi Muyo,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,25,Aiura,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,26,Akagami no Shirayuki-hime,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,27,Akagami no Shirayuki-hime II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,28,Akame ga Kill,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,29,Akatsuki no Yona,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,30,Aldnoah Zero,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,289,Amaama to Inazuma,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,31,Ame-iro Cocoa,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,32,Amnesia,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,33,Angel Beats,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,34,Ano Hi Mita Hana No Namae Wo Bokutachi Wa Mada Shiranai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,35,Another,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,36,Ao Haru Ride,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,51,Ao no Exorcist,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,52,Arakawa Under the Bridge,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,53,Arakawa Under the Bridge x Bridge,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,54,Arata Kangatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,55,Avenger,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,56,Ayashi no Ceres,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,57,Baka to Test to Shoukanjuu,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,58,Baka to Test to Shoukanjuu Ni,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,59,Baka to Test to Shoukanjuu-Matsuri,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,60,Bakemonogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,61,Ballroom e Youkoso,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,62,Banner of The Stars,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,63,Ben-To,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,64,Bishoujo Senshi Sailor Moon,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,65,Bishoujo Senshi Sailor Moon Crystal,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,66,Bishoujo Senshi Sailor Moon R,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,67,Bishoujo Senshi Sailor Moon S,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,68,Bishoujo Senshi Sailor Moon Super S,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,69,Black Bullet,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,379,Black Clover,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,71,Black Lagoon,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,72,Black Lagoon Roberta's Blood Trail,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,73,Black Lagoon Second Barrage,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,74,Black Rock Shooter,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,78,Bleach,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,75,Boku no Hero Academia,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,76,Boku no Hero Academia II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,77,Boku no Hero Academia III,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,79,Boku wa Tomodachi Sukunai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,80,Boku wa Tomodachi Sukunai - NEXT,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,81,Bokura ga Ita,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,82,Boruto - Naruto Next Generations,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,83,Btooom!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,84,Bungaku Shoujo Memoire,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,85,Byousoku 5 Centimeter,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,86,Canaan,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,87,Cardcaptor Sakura,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,88,Cardfight Vanguard!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,89,Cats Eye,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,90,Chaos;Head,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,91,Chihayafuru,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,92,Chobits,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,93,Chrno Crusade,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,94,Chunnibyou demo Koi ga Shitai! Ren,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,95,Chunnibyou demo Koi ga Shitai! Ren Lite,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,96,Chuunibyou demo Koi ga Shitai!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,97,Clannad,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,98,Clannad After Story,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,99,Claymore,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,100,Code Breaker,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,101,Coppelion,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,102,Cowboy Bebop,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,103,Crest of The Stars,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,104,Dantalian no Shoka,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,105,Date a Live,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,106,Date a Live II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,107,Deadman Wonderland,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,108,Death Note,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,109,Denki-gai no Honya-san,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,110,Devil Survivor 2 The Animation,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,111,Diabolik Lovers,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,112,Diabolik Lovers II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,113,Digimon Adventure,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,114,Digimon Adventure II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,115,Digimon Adventure Tri,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,116,Digimon Frontier,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,117,Digimon Savers,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,118,Digimon Tamers,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,119,Digimon Xros Wars,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,122,Digimon Xros Wars II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,123,Donten ni Warau,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,124,Dragon Ball,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,125,Dragon Ball GT,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,126,Dragon Ball Super,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,127,Dragon Ball Z,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,128,Dragon Crisis,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,129,Durarara!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,130,Durarara!! x2 Shou,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,131,Durarara!! x2 Ten,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,132,Eikoku Koi Monogatari Emma,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,133,Elfen Lied,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,134,Etotama,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,135,Eureka Seven,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,136,Fairy Tail,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,137,Fairy Tail - Houou no Miko,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,382,Fairy Tail - III,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,138,Fairy Tail - OVA,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,140,Fairy Tail - Second Season,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,141,Fate Stay Night,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,142,resizing,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/Fate Stay Night/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,143,Fire Emblem,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,388,Freezing,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,144,Fruits Basket,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,145,Fullmetal Alchemist Brotherhood,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,149,Fullmetal Panic,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,150,Fullmetal Panic Fumoffu,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,151,Fullmetal Panic The Second Raid,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,158,Gall Force - Earth Chapter,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,159,Gall Force - New Era,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,154,Gall Force I - Eternal Story,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,155,Gall Force II - Destruction,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,156,Gall Force III - Stardust War,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,152,Gantz,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,153,Ga-Rei-Zero,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,160,Gate II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,161,Ghost in the Shell,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,162,Gingitsune,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,163,Gintama,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,164,Girl Friend Kari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,165,God Eater,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,166,Golden Time,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,167,Gosick,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,168,Gugure Kokkuri-san,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,169,Guilty Crown,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,170,Gunslinger Stratos,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,171,Gyakuten Saiban - Sono Shinjitsu - Igi Ari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,172,Hanamonogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,381,Hataraku Saibou,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,174,Hellsing,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,175,Hellsing Ultimate Series,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,176,Hibiki Euphonium,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,177,Hidan no Aria,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,178,Hidan no Aria AA,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,179,Highschool DxD,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,180,Highschool of Dead,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,181,Himouto! Umaru-chan,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,182,Himouto! Umaru-chan R,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,183,Hinamatsuri,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,184,Hyouka,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,185,Inazuma Eleven,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,186,Inazuma Eleven - Go,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,187,Inazuma Eleven - Go Chrono Stone,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,188,Inazuma Eleven - Go Galaxy,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,189,Infinite Stratos 2,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,190,InuYasha,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,191,InuYasha Kanketsu-hen,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,192,IS Infinite Stratos,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,193,Itazura na Kiss,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,194,Jigoku Shoujo,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,195,Jigoku Shoujo - Futakomori,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,196,Jojo's Bizarre Adventure,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,197,Jojo's Bizarre Adventure (2000),<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,198,Junketsu no Maria,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,199,Kaichou Wa Maid-Sama,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,200,Kami nomi zo Shiru Sekai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,201,Kami nomi zo Shiru Sekai - Megami Hen,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,202,Kami nomi zo Shiru Sekai II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,203,Kamisama Hajimemashita,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,204,Kamisama Hajimemashita - II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,205,Kami-sama no inai Nichiyoubi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,206,Karneval,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,207,Katekyo Hitman Reborn,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,147,Kaze no Stigma,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,208,Kikou Shoujo wa Kizutsukanai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,209,Kill la Kill,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,210,Kill me Baby,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,211,Kimi ni Todoke,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,212,resizing,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/Kimi ni Todoke/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,213,Kimi ni Todoke II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,214,resizing,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/Kimi ni Todoke II/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,215,Kiseijuu,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,216,Kiznaiver,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,217,Kizumonogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,218,Koe no Katachi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,219,Kokkoku,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,220,Kokoro Connect,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,221,K-On!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,222,K-On!!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,223,Kyoukai no Kanata,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,224,Kyousougiga (2011),<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,225,Kyousougiga (2012),<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,226,Kyousougiga (2013),<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,227,Les Miserables,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,228,Log Horizon,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,229,Log Horizon II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,230,Love Lab,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,231,Love Live School Idol Project,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,232,Lovely Complex,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,233,Lucky Star,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,234,Magi The Kingdom of Magic,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,235,Magi The Labyrinth of Magic,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,236,Mahoutsukai no Yome,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,237,Mardock Scramble,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,238,Marmalade Boy,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,239,Mayoi Neko Overrun,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,240,Military,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,241,Mirai Nikki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,242,Miss Monochrome The Animation,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,243,Mnemosyne,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,244,Monogatari Series Second Season,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,245,Nana,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,246,Nanatsu no Taizai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,247,Nanatsu no Taizai II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,248,Naruto,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,257,Naruto SD Rock Lee no Seishun Full Power Ninden,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,258,Naruto Shippuuden,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,259,Naruto Shippuuden - Bonds,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,260,Naruto Shippuuden - Lost Tower,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,261,Naruto Shippuuden - Road to Ninja,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,249,Nazo no Kanojo X,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,250,Nekomonogatari (Kuro),<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,251,Nisekoi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,252,Nisekoi II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,253,Nisemonogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,254,Nodame Cantabile,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,255,Nodame Cantabile Finale,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,256,Nodame Cantabile Paris Hen,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,262,Non Non Biyori,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,263,Noragami,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,264,Noragami Aragoto,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,265,One Piece,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,266,One Punch-man,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,267,Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,268,Ookami Shoujo to Kuro Ouji,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,269,Ore Monogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,270,Ore no Imouto Ga Konna Ni Kawaii Wake Ga Nai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,271,Ore no Imouto Ga Konna Ni Kawaii Wake Ga Nai II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,272,Ore no Nounai Sentakushi Ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,273,Otome Youkai Zakuro,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,274,Ouran High School Host Club,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,275,Outbreak Company,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,276,Overlord,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,277,Overlord II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,278,Overlord III,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,279,Overlord Ple Ple Pleiades,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,280,Peach Girl,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,281,Persona 3 - Falling Down,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,282,Persona 3 - Midsummer Knight's Dream,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,283,Persona 3 - Spring of Birth,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,284,Persona 3 - Winter of Rebirth,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,285,Persona 4 - The Golden Animation,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,286,Persona 5 - The Animation,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,287,Persona Trinity Soul,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,288,Pokemon,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,290,Pokemon Advanced Generation,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,291,Psycho Pass,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,292,Psycho Pass - New Edition,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,293,Rail Wars,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,389,Rakudai Kishi no Eiyuutan,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,294,Red Data Girl,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,157,Rhea Gall Force,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,295,Robotics;Notes,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,296,Rozen Maiden,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,297,Saijaku Muhai no Bahamut,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,298,Saint Seiya,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,299,Sakamoto Desu Ga,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,300,Sakura Trick,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,301,Sakurasou no Pet na Kanojo,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,302,Sankarea,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,303,School Days,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,304,School Rumble,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,305,School Rumble Ichi Gakki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,306,School Rumble Ni Gakki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,307,Serial Experiments Lain,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,308,Servamp,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,309,Servant X Service,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,310,Shakugan no Shana,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,311,Shakugan no Shana II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,312,Shakugan no Shana III,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,313,Shakugan no Shana S,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,314,Shakugan no Shana-tan,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,315,Shelter Kyuoteru,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,316,Shigatsu wa Kimi no Uso,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,317,Shikabane Hime - Aka,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,318,Shiki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,363,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,364,Shingeki no Bahamut - Genesis,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,365,Shingeki no Bahamut - Virgin Soul,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,366,Shingeki no Kyojin,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,367,Shingeki no Kyojin II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,400,Sirius the Jaeger,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,399,Sora no Woto,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,398,Soul Eater,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,397,Special A,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,396,Steel Angel Kurumi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,395,Steins;Gate,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,394,Steins;Gate 0,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,410,Strike The Blood,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,409,Suisei no Gargantia,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,408,Sukitte ii na yo,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,407,Suzumiya Haruhi no Yuuutsu 2006,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,406,Suzumiya Haruhi no Yuuutsu 2009,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,405,Suzumiya Haruhi-chan no Yuuutsu,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,404,Sword Art Online,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,403,Sword Art Online - Ordinal Scale,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,402,Sword Art Online Alternative - Gun Gale Online,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,401,Sword Art Online II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,413,Taboo Tattoo,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,412,Takanashi Rikka - Chuunibyou Demo Koi ga Shitai!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,411,Tari Tari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,432,Tensei shitara Slime Datta Ken,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,431,Terra Formars,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,430,To Aru Kagaru no Railgun,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,429,To Aru Kagaru no Railgun S,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,428,To Aru Majutsu no Index,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,427,To Aru Majutsu no Index II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,426,Tokyo ESP,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,425,Tokyo Ghoul,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,424,Tokyo Ghoul II,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,423,Tokyo Ghoul Jack,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,422,Tonari no Kaibutsu-Kun,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,421,Toradora!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,420,Tsubasa Chronicle - Shunraiki,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,419,Tsubasa Chronicle - Tokyo Revelations,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,418,Tsubasa Reservoir Chronicle,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,417,Tsubasa Resevoir Chronicle - Tori Kago no Kuni no Himegimi,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,416,Tsubasa Resevoir Chronicle 2,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,415,Tsukimonogatari,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,414,Tsurezure Children,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1033,Usagi Drop,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1032,Victorian Romance Emma Second Act,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1031,Violet Evergarden,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1030,Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1029,Weiss Survive,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1028,Weiss Survive R,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1045,White Album,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1044,White Album 2,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1043,Winter Garden,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1042,Working,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1041,World Trigger,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1040,Yahari Ore no Seishun Love Comedy wa Machigatteiru,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1039,Yosuga no Sora,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1038,Yozakura Quartet,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1037,Yozakura Quartet Hana no Uta,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1036,Yu-Gi-Oh! Duel Monsters,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1035,Yuusha ni Narenakatta Ore wa Shibushibu,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1034,Zombie Loan,<ChomikBox.ChomikFolder: "/pasta_Teste/Animes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,3,Prywatne,<ChomikBox.Chomik: pabloramon044>,False,False,False,_231cc4
+<ChomikBox.Chomik: pabloramon044>,11,Filmes,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,354,NSFW,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,372,Hentai,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/NSFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,392,NonHentai,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/NSFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,353,SFW,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,360,Avengers.Age.of.Ultron.2015.BRRip.XviD.MP3-XVID,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,361,Avengers.Infinity.War.2018.BDRip.x264-SPARKS[rarbg],<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,362,E o vento levou,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,356,Guardians.of.the.Galaxy.2014.720p.BluRay.H264.AAC-RARBG,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,357,Guardians.of.the.Galaxy.Vol.2.2017.720p.BluRay.H264.AAC-RARBG,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,359,The.Avengers.2012.BRRip.XviD.MP3-XVID,<ChomikBox.ChomikFolder: "/Prywatne/Filmes/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,373,Games,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,385,GBA,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,387,NES,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,384,PC,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1049,PS1,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1050,PS2,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1051,PS3,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1055,as-rdrgoty,<ChomikBox.ChomikFolder: "/Prywatne/Games/PS3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1054,clan-per4a,<ChomikBox.ChomikFolder: "/Prywatne/Games/PS3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1053,Persona.5.PS3-DUPLEX,<ChomikBox.ChomikFolder: "/Prywatne/Games/PS3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,386,SNES,<ChomikBox.ChomikFolder: "/Prywatne/Games/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1052,Livros,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1058,TADS,<ChomikBox.ChomikFolder: "/Prywatne/Livros/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1059,5° Semestre,<ChomikBox.ChomikFolder: "/Prywatne/Livros/TADS/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1060,Paradigmas de Linguagens de Programação,<ChomikBox.ChomikFolder: "/Prywatne/Livros/TADS/5° Semestre/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,369,Manga,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,370,NSFW,<ChomikBox.ChomikFolder: "/Prywatne/Manga/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,371,SFW,<ChomikBox.ChomikFolder: "/Prywatne/Manga/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1062,Lidos,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1063,Are You Really the Only One Who Likes Me,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1064,Candy & Cigarettes,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1068,Elfen Lied,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1065,How NOT to Summon a Demon Lord,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1067,Nano List,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1069,Nazo no Kanojo X,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1066,Parallel Paradise,<ChomikBox.ChomikFolder: "/Prywatne/Manga/SFW/Lidos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,433,Music,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,436,39 - El Reencuentro Especial,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,435,50 - Bonus Menudo,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,434,Aerosmith,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1014,Apocalyptica,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1015,Reflections,<ChomikBox.ChomikFolder: "/Prywatne/Music/Apocalyptica/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1012,Arctic Monkeys - 2004 - Beneath The Boardwalk (Demo),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1013,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - 2004 - Beneath The Boardwalk (Demo)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1010,Arctic Monkeys - 2005 - Five Minutes With Arctic Monkeys (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1011,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - 2005 - Five Minutes With Arctic Monkeys (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1008,Arctic Monkeys - 2009 - Humbug,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1009,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - 2009 - Humbug/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1006,Arctic Monkeys - 2011 - Suck It And See,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1007,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - 2011 - Suck It And See/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1004,Arctic Monkeys - 2013 - AM,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1005,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - 2013 - AM/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1002,Arctic Monkeys - Brianstorm (2007),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1003,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - Brianstorm (2007)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1000,Arctic Monkeys - Favourite Worst Nightmare (2007),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1001,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - Favourite Worst Nightmare (2007)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,998,Arctic Monkeys - When the Sun Goes Down (2006),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,999,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - When the Sun Goes Down (2006)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,996,Arctic Monkeys - Who The Fuck Are Arctic Monkeys (2006),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,997,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Arctic Monkeys - Who The Fuck Are Arctic Monkeys (2006)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,988,Avenged Sevenfold,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,989,[2001] Sounding the Seventh Trumpet,<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,990,[2003] Waking The Fallen,<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,991,[2005] City Of Evil,<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,992,[2007] Avenged Sevenfold,<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,993,[2008] Live In The LBC & Diamonds In The Rough (Live album),<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,994,[2010] Nightmare (Deluxe Edition),<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,995,[2013] Hail To The King (Deluxe Edition),<ChomikBox.ChomikFolder: "/Prywatne/Music/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,968,Beatles,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,970,The Beatles - A Hard Day's Night (1964) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,981,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - A Hard Day's Night (1964) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,971,The Beatles - Beatles For Sale (1964) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,982,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - Beatles For Sale (1964) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,972,The Beatles - Magical Mystery Tour (1967) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,983,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - Magical Mystery Tour (1967) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,973,The Beatles - Please Please Me (1963) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,984,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - Please Please Me (1963) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,974,The Beatles - Revolver (1966) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,975,The Beatles - Rubber Soul (1965) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,985,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - Rubber Soul (1965) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,976,The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,986,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,977,The Beatles - With The Beatles (1963) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,987,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles - With The Beatles (1963) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,969,The Beatles (1968) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,978,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles (1968) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,979,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles (1968) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,980,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Beatles/The Beatles (1968) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,951,Black Eyed Peas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,952,(1998) Behind The Front,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,958,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(1998) Behind The Front/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,953,(2000) Bridging The Gap,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,959,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2000) Bridging The Gap/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,954,(2003) Elephunk,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,955,(2005) Monkey Business,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,960,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2005) Monkey Business/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,956,(2009) The E.N.D (Target Deluxe Edition),<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,961,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2009) The E.N.D (Target Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,962,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2009) The E.N.D (Target Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,963,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2009) The E.N.D (Target Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,957,(2010) The Beginning & The Best of The E.N.D. (Combo Deluxe Edition),<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,964,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2010) The Beginning & The Best of The E.N.D. (Combo Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,965,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2010) The Beginning & The Best of The E.N.D. (Combo Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,966,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2010) The Beginning & The Best of The E.N.D. (Combo Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,967,Super Deluxe Edition,<ChomikBox.ChomikFolder: "/Prywatne/Music/Black Eyed Peas/(2010) The Beginning & The Best of The E.N.D. (Combo Deluxe Edition)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,944,Claudinho & Buchecha,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,945,Claudinho e Buchecha - 1996,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,946,Claudinho e Buchecha - A forma - 1997,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,947,Claudinho e Buchecha - Ao Vivo - 1999,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,948,Claudinho e Buchecha - Destino - 2000,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,949,Claudinho e Buchecha - So Love - 1998,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,950,Claudinho e Buchecha - Vamos Dançar - 2002,<ChomikBox.ChomikFolder: "/Prywatne/Music/Claudinho & Buchecha/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,943,Disc 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,939,Ecliptyka,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,940,Ecliptyca - A Tale Of Decadence,<ChomikBox.ChomikFolder: "/Prywatne/Music/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,941,Ecliptyca - The First Petal Falls,<ChomikBox.ChomikFolder: "/Prywatne/Music/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,942,Ecliptyca - Times Are Changed,<ChomikBox.ChomikFolder: "/Prywatne/Music/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,938,El reencuentro 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,937,El reencuentro 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,936,ELIANE a rainha do forro CD SAO JOAO 2015 hallstudiomovel,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,935,Emicida,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,932,Evanescence - 1998 - Evanescence (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,933,Outtakes,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 1998 - Evanescence (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,934,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 1998 - Evanescence (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,930,Evanescence - 1999 - Sound Asleep (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,931,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 1999 - Sound Asleep (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,927,Evanescence - 2003 - Fallen,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,928,Japan Bonus Tracks,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2003 - Fallen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,929,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2003 - Fallen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,925,Evanescence - 2003 - Mystary (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,926,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2003 - Mystary (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,923,Evanescence - 2004 - Anywhere But Home,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,924,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2004 - Anywhere But Home/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,920,Evanescence - 2006 - The Open Door,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,921,Japanese Edition Bonus Track,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2006 - The Open Door/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,922,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2006 - The Open Door/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,915,Evanescence - 2011 - Evanescence,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,916,Deluxe Edition Bonus Tracks,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2011 - Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,917,iTunes Bonus Track,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2011 - Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,918,Japanese Edition Bonus Track,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2011 - Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,919,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Evanescence - 2011 - Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,913,FAB-JUNIO-AS-MELHORES,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,914,Fábio Jr. - Seleção Essencial (2010),<ChomikBox.ChomikFolder: "/Prywatne/Music/FAB-JUNIO-AS-MELHORES/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,911,Fall Out Boys,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,912,Fall Out Boy - 2003 Take This to Your Grave @ 320,<ChomikBox.ChomikFolder: "/Prywatne/Music/Fall Out Boys/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,909,Flor Do Caribe - www.musicasparabaixar.org,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,910,Flor Do Caribe - www.musicasparabaixar.org,<ChomikBox.ChomikFolder: "/Prywatne/Music/Flor Do Caribe - www.musicasparabaixar.org/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,907,Frank Sinatra,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,908,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Frank Sinatra/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,899,Gorillaz,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,902,[2000] - Tomorrow Comes Today [EP],<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,904,[2001] - Gorillaz,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,903,[2001] - G-Sides,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,905,[2002] - Laika Come Home,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,906,[2005] - Demon Days,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,900,Humanz,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,901,The Now Now,<ChomikBox.ChomikFolder: "/Prywatne/Music/Gorillaz/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,898,Jack Johnson,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,895,Joy Division,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,896,Joy Division - Unknown Pleasures (1979) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Joy Division/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,897,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Joy Division/Joy Division - Unknown Pleasures (1979) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,893,Julio Iglesias,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,894,1981 - Momentos (Brazil),<ChomikBox.ChomikFolder: "/Prywatne/Music/Julio Iglesias/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,891,La Folle Journee Selection - Disc 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,892,Disc 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/La Folle Journee Selection - Disc 1/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,889,La Folle Journee Selection - Disc 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,890,Disc 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/La Folle Journee Selection - Disc 2/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,887,La Folle Journee Selection - Disc 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,888,Disc 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/La Folle Journee Selection - Disc 3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,885,La Folle Journee Selection - Disc 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,886,Disc 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/La Folle Journee Selection - Disc 4/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,883,La Folle Journee Selection - Disc 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,884,Disc 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/La Folle Journee Selection - Disc 5/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,882,Linkin Park,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,876,Mamonas Assassinas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,877,Mamonas Assassinas Discografia - www.CDSESTOURADOS.com.br,<ChomikBox.ChomikFolder: "/Prywatne/Music/Mamonas Assassinas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,878,1991 - Utopia,<ChomikBox.ChomikFolder: "/Prywatne/Music/Mamonas Assassinas/Mamonas Assassinas Discografia - www.CDSESTOURADOS.com.br/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,879,1995 - Mamonas Assassinas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Mamonas Assassinas/Mamonas Assassinas Discografia - www.CDSESTOURADOS.com.br/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,880,1998 - Atenção Creuzebek,<ChomikBox.ChomikFolder: "/Prywatne/Music/Mamonas Assassinas/Mamonas Assassinas Discografia - www.CDSESTOURADOS.com.br/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,881,2006 - Mamonas Assassinas ao vivo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Mamonas Assassinas/Mamonas Assassinas Discografia - www.CDSESTOURADOS.com.br/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,875,Mariah Carey - Merry Christmas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,873,MASTRUZ COM LEITE - FORRO DAS ANTIGAS - 23.08.2013 - NAJARA CDS DE JIJOCA,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,874,(((MASTRUZ COM LEITE))) - FORRÓ DAS ANTIGAS - 23.08.2013 - NAJARA CD´S DE JIJOCA,<ChomikBox.ChomikFolder: "/Prywatne/Music/MASTRUZ COM LEITE - FORRO DAS ANTIGAS - 23.08.2013 - NAJARA CDS DE JIJOCA/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,872,Michael Jackson,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,871,Milt Jackson,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,677,Músicas - HD - Antigo,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,678,musicas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,679,Adele,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,680,Alice In Chains- Sap,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,681,Anberlin,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,682,Apocalyptica,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,761,Reflections,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Apocalyptica/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,683,Arctic Monkeyss,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,684,Avenged Sevenfold,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,685,Avril Lavigne,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,686,Boys Like Girls,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,687,Bruno Mars,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,688,Capital Inicial,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,689,Capital Inicial - MTV especial Aborto Eletrico 2005,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,690,cd,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,691,Charlie Brown JR,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,692,Chimaruts,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,693,Cine,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,694,Colbie Caillat,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,695,Coldplay,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,762,Nova pasta,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Coldplay/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,696,ComédiaMtv,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,763,Vídeos,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/ComédiaMtv/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,836,Quinta Categoria (barbixas),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/ComédiaMtv/Vídeos/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,697,David Gueta,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,698,Death Cab For Cutie,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,699,Depeche Mode,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,700,Duffy,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,701,Ecliptyka,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,764,Ecliptyca - A Tale Of Decadence,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,765,Ecliptyca - The First Petal Falls,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,766,Ecliptyca - Times Are Changed,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Ecliptyka/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,702,Eletro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,703,Emicida,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,704,Engenheiros Do Hawaii - Acustico MTV 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,705,Evanescence,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,767,Evanescence - Anywhere But Home,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,768,Evanescence - Bring Me To Life (CD Single),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,769,Evanescence - Evanescence EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,770,Evanescence - Fallen,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,771,Evanescence - My Immortal (Maxi-CD),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,772,Evanescence - Mystery Promo CD,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,773,Evanescence - Not For Your Ears,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,774,Evanescence - Origin,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,775,Evanescence - Whisper Sound Asleep EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,776,Evanescence -The Open Door[2006][CD+SkidVid+Cov],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,777,Evanescence-Call_Me_When_Youre_Sober-(Promo_CDS)-2006-WLM,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,778,Mystary,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,837,Evanescence - Mystary EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Evanescence/Mystary/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,706,Foo Fighters,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,707,Franz Ferdinand,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,708,Gorillaz,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,709,Green Day,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,710,Hip Hop,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,711,Jason M´raz,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,712,Jimi Hendrix,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,713,Kanie West,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,714,Kansas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,715,Katy Perry,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,716,Lady GaGa,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,717,Leandro e Leonardo (1990),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,718,Lilly Alen,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,719,Linkin Park,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,720,luis gonzaga são joão na roça,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,721,Luxúria,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,779,Megh Stock a minha mente está em seu caos,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Luxúria/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,780,Megh Stock- Da minha vida cuido eu,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Luxúria/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,722,Lykke,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,723,Maroon 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,724,Mc Fly,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,725,Michael Jackson,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,726,Mika,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,727,Nevilton,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,728,Nickelback,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,729,Nightcore,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,730,NightWish,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,781,2007_-_Dark_Passion_Play,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,838,2007 - Dark Passion Play,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/2007_-_Dark_Passion_Play/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,782,angels fall first,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,783,Century Child,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,784,From Wishes to Eternity,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,785,oceanborn,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,786,OverThe Hills and Far Away,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,787,Wishmaster,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/NightWish/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,731,Nirvana,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,732,nxzero,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,733,Ok.go,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,734,One Republic,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,735,P!nk,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,736,Padre Fabio De Melo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,788,Vida,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Padre Fabio De Melo/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,737,Padre Marcelo Rossi,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,789,Minha Bencao,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Padre Marcelo Rossi/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,738,Paramore,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,790,All We Know Is Falling (Deluxe Version),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Paramore/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,791,Brand New Eyes (Deluxe Edition),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Paramore/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,792,Paramore - Paramore (Japan Deluxe Edition) (2013),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Paramore/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,793,Riot!,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Paramore/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,739,paulinha,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,740,Pitty,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,794,Admirável Chip Novo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,795,Agridoce,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,796,all,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,797,Anacrônico,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,798,Ao vivo planeta Atlântida,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,839,Pitty - Planeta Atlantida -,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/Ao vivo planeta Atlântida/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,799,Chiaroscuro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,800,Circo Voador,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,801,Des.Concerto,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,802,Luau MTV,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,803,Trupe Delirante no Circo Voador,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,840,Álbum Desconhecido (12-5-2011 17-12-09),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Pitty/Trupe Delirante no Circo Voador/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,741,Playlists,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,742,Queen,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,743,Rayla,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,804,A Day to Remember,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,841,A Day To rememver- And Their Name Was Treason,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/A Day to Remember/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,842,ForThose Who Have Heart,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/A Day to Remember/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,843,Homesick,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/A Day to Remember/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,844,Old Record,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/A Day to Remember/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,845,What Separates Me From You,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/A Day to Remember/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,805,Asking Alexandria - Stand Up And Scream [2009],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,806,Atreyu,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,846,The Curse (2004),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Atreyu/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,807,Avenged Sevenfold,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,847,City of Evil (2005),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,848,Diamonds In The Rough (2008),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Avenged Sevenfold/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,808,Bullet For My Valentine,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,849,Fever,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Bullet For My Valentine/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,850,Scream Aim Fire,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Bullet For My Valentine/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,851,The Poison,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Bullet For My Valentine/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,809,Dead by April,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,852,Dead By April - Dead By April [2009],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Dead by April/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,853,Dead by April [EP 2008],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Dead by April/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,810,Hail_The_Villain-Population_Declining-2010-MTD,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,811,Hollywood Undead,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,854,American Tragedy,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Hollywood Undead/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,855,Desperate Measures,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Hollywood Undead/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,856,Hollywood Undead - Swan Songs (2008),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Hollywood Undead/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,812,Hoobastank,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,857,For(n)ever,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Hoobastank/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,858,The Reason,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Hoobastank/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,813,Ill Nino,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,814,Nickelback,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,859,All The Right Reasons,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Nickelback/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,860,Dark Horse,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Nickelback/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,861,Silver Side Up,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Nickelback/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,862,The Long Road,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Nickelback/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,863,The State,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Nickelback/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,815,Parkway Drive,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,864,Deep Blue,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Parkway Drive/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,865,Horizons,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Parkway Drive/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,866,Killing With A Smile,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Parkway Drive/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,867,Parkway Drive - The Dvd (Audio) [2009],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Parkway Drive/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,868,Parkway Drive- Don't Close Your Eyes[2006],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Parkway Drive/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,816,Sick Puppies,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,869,Sick Puppies - Dressed Up As Life,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Sick Puppies/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,870,Sick_Puppies-Tri-Polar,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rayla/Sick Puppies/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,744,Red Hot Chilli Peppers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,745,Rihanna,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,746,Rosa de Saron,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,817,Angústia Suprema [1997],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,818,Cartas ao Remetente,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,819,Depois do Inverno [2002],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,820,Diante da Cruz [1995],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,821,Olhando de frente [1999],<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,822,Rosa de Saron Acústico,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,823,Rosa de Saron Casa dos Espelhos,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,824,Rosa de Saron Extra,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,825,Rosa de Saron Horizonte Distante,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,826,Rosa de Saron O agora e o eterno,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,827,Rosa de Saron Siete Camiños,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Rosa de Saron/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,747,Scracho,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,748,Simple Plan,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,749,Skank,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,750,Skank - Calango,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,751,Skillet,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,752,Slipknot,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,753,Strike,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,754,System of a down,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,828,Hypnotize,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/System of a down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,829,Mezmerize,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/System of a down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,830,Steal This Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/System of a down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,831,System Of A Down,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/System of a down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,832,Toxicity,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/System of a down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,755,Taylor Swift,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,756,The who,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,757,Ultraje a Rigor,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,758,Unknown artist,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,833,Unknown album (10-5-2013 11-58-22 AM),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Unknown artist/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,834,Unknown album (12-25-2012 7-00-59 PM),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Unknown artist/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,835,Unknown album (9-1-2013 11-35-44 AM),<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/Unknown artist/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,759,Variadas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,760,Vivendo do Ócio,<ChomikBox.ChomikFolder: "/Prywatne/Music/Músicas - HD - Antigo/musicas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,676,My music,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,675,Na_tal_ Em _Fa_mí_lia,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,673,Nightwish - 1997 - Angels Fall First,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,674,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 1997 - Angels Fall First/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,670,Nightwish - 1998 - Oceanborn,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,671,Official Collector's Edition (2007) Bonus Tracks,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 1998 - Oceanborn/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,672,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 1998 - Oceanborn/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,668,Nightwish - 2000 - Wishmaster,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,669,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2000 - Wishmaster/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,666,Nightwish - 2001 - Over The Hills And Far Away (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,667,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2001 - Over The Hills And Far Away (EP)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,663,Nightwish - 2002 - Century Child,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,664,2007 UK Edition Bonus Tracks,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2002 - Century Child/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,665,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2002 - Century Child/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,661,Nightwish - 2004 - Once,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,662,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2004 - Once/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,659,Nightwish - 2007 - Dark Passion Play,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,660,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2007 - Dark Passion Play/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,657,Nightwish - 2011 - Imaginaerum,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,658,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2011 - Imaginaerum/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,655,Nightwish - 2012 - Imaginaerum The Score,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,656,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2012 - Imaginaerum The Score/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,653,Nightwish - 2015 - Endless Forms Most Beautiful,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,654,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nightwish - 2015 - Endless Forms Most Beautiful/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,652,Nirvana,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,648,Nodame Cantabile Edition de Paris OST,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,649,Nodame Cantabile Edition de Paris OST,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Cantabile Edition de Paris OST/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,651,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Cantabile Edition de Paris OST/Nodame Cantabile Edition de Paris OST/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,650,Scans,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Cantabile Edition de Paris OST/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,645,Nodame Cantabile OST,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,646,Nodame Cantabile OST,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Cantabile OST/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,647,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Cantabile OST/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,643,Nodame Live CD1,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,644,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Nodame Live CD1/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,642,Ok.go,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,640,Orchestra de Nodame Live - Disc 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,641,Nodame Live CD1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Orchestra de Nodame Live - Disc 1/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,639,P!nk,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,638,Pat Metheny Group,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,629,Pitty,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,630,Pitty - 2003 - Admirável Chip Novo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,631,Pitty - 2003 - Lado Z (EP),<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,632,Pitty - 2005 - Anacrônico,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,633,Pitty - 2007 - {Des}Concerto Ao Vivo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,634,Pitty - 2009 - Chiaroscuro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,635,Pitty - 2011 - A Trupe Delirante No Circo Voador,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,636,Pitty - 2014 - Sete Vidas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,637,Pitty E Negra Li - 2007 - Estúdio Coca-Cola,<ChomikBox.ChomikFolder: "/Prywatne/Music/Pitty/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,482,Queen,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,486,Queen - A Day At The Races (1976) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,527,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - A Day At The Races (1976) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,487,Queen - A Kind Of Magic (1986) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,528,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - A Kind Of Magic (1986) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,529,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - A Kind Of Magic (1986) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,530,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - A Kind Of Magic (1986) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,488,Queen - A Night At The Opera (1975) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,531,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - A Night At The Opera (1975) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,489,Queen - At The BBC, 1973 (1995) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,490,Queen - At The Beeb, 1973 (1989) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,491,Queen - Deep Cuts 1973-1976 (2011) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,532,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Deep Cuts 1973-1976 (2011) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,492,Queen - Deep Cuts 2, 1977-1982 (2011) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,533,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Deep Cuts 2, 1977-1982 (2011) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,493,Queen - Deep Cuts 3, 1984-1995 (2011) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,534,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Deep Cuts 3, 1984-1995 (2011) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,494,Queen - Final Live In Japan (1985) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,535,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Final Live In Japan (1985) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,536,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Final Live In Japan (1985) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,495,Queen - Flash Gordon (Soundtrack 1980) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,537,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Flash Gordon (Soundtrack 1980) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,538,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Flash Gordon (Soundtrack 1980) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,539,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Flash Gordon (Soundtrack 1980) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,496,Queen - Forever (2014) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,540,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Forever (2014) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,541,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Forever (2014) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,497,Queen - Greatest Hits (1981) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,542,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Greatest Hits (1981) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,498,Queen - Greatest Hits II (1991) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,543,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Greatest Hits II (1991) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,499,Queen - Greatest Hits III (1999) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,544,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Greatest Hits III (1999) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,500,Queen - Hot Space (1982) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,545,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Hot Space (1982) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,546,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Hot Space (1982) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,547,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Hot Space (1982) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,501,Queen - Innuendo (1991) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,548,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Innuendo (1991) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,549,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Innuendo (1991) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,550,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Innuendo (1991) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,502,Queen - Jazz (1978) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,551,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Jazz (1978) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,503,Queen - Live At The Rainbow, 1974 (2014) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,552,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live At The Rainbow, 1974 (2014) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,553,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live At The Rainbow, 1974 (2014) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,504,Queen - Live At Wembley ‘86 (1992) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,554,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live At Wembley ‘86 (1992) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,555,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live At Wembley ‘86 (1992) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,505,Queen - Live In Montreal, 1982 (2007) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,506,Queen - Live Killers (1979) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,556,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live Killers (1979) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,557,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live Killers (1979) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,558,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live Killers (1979) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,507,Queen - Live Magic (1986) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,559,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Live Magic (1986) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,508,Queen - Made In Heaven (1995) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,560,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Made In Heaven (1995) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,561,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Made In Heaven (1995) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,562,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Made In Heaven (1995) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,509,Queen - News Of The World (1977) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,563,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - News Of The World (1977) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,510,Queen - Pre Ordained (1971) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,511,Queen - Queen On Fire. Live At The Bowl, 1982 (2004) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,564,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Queen On Fire. Live At The Bowl, 1982 (2004) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,565,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Queen On Fire. Live At The Bowl, 1982 (2004) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,566,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Queen On Fire. Live At The Bowl, 1982 (2004) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,512,Queen - Rock You From Rio, Live Rock In Rio 1985 (2009) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,567,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Rock You From Rio, Live Rock In Rio 1985 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,513,Queen - Sheer Heart Attack (1974) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,568,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Sheer Heart Attack (1974) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,514,Queen - Singles Collection Vol. 1 (2008) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,569,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,570,CD 10,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,571,CD 11,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,572,CD 12,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,573,CD 13,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,574,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,575,CD 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,576,CD 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,577,CD 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,578,CD 6,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,579,CD 7,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,580,CD 8,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,581,CD 9 - Queen's First EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 1 (2008) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,515,Queen - Singles Collection Vol. 2 (2009) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,582,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,583,CD 10,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,584,CD 11,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,585,CD 12,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,586,CD 13,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,587,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,588,CD 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,589,CD 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,590,CD 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,591,CD 6,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,592,CD 7,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,593,CD 8,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,594,CD 9,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 2 (2009) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,516,Queen - Singles Collection Vol. 3 (2010) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,595,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,596,CD 10,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,597,CD 11,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,598,CD 12,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,599,CD 13,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,600,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,601,CD 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,602,CD 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,603,CD 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,604,CD 6,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,605,CD 7,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,606,CD 8,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,607,CD 9,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 3 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,517,Queen - Singles Collection Vol. 4 (2010) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,608,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,609,CD 10,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,610,CD 11,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,611,CD 12,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,612,CD 13,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,613,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,614,CD 3,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,615,CD 4,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,616,CD 5,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,617,CD 6,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,618,CD 7,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,619,CD 8,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,620,CD 9,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - Singles Collection Vol. 4 (2010) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,518,Queen - The Game (1980) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,621,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Game (1980) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,519,Queen - The Miracle (1989) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,622,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Miracle (1989) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,623,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Miracle (1989) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,624,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Miracle (1989) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,520,Queen - The Works (1984) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,625,Album,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Works (1984) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,626,Bonus EP,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Works (1984) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,627,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen - The Works (1984) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,483,Queen (1973) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,523,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen (1973) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,484,Queen + Paul Rodgers - Return Of The Champions (2005) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,524,CD 1,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen + Paul Rodgers - Return Of The Champions (2005) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,525,CD 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen + Paul Rodgers - Return Of The Champions (2005) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,526,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen + Paul Rodgers - Return Of The Champions (2005) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,485,Queen + Paul Rodgers - The Cosmos Rocks (2008) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,521,Queen II (1974) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,628,Covers,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/Queen II (1974) By Muro/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,522,Queen In Nuce (1969-1973) By Muro,<ChomikBox.ChomikFolder: "/Prywatne/Music/Queen/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,481,Raul Seixas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,480,Selecao Musicas Natalinas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,479,Soundtrack - Shrek,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,478,Soundtrack - Shrek 2,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,475,Suguru_Matsutani-Nodame_Cantabile_Finale_Original_Soundtrack_And_All_Seasons_Best-2011-COCMP3,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,476,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Suguru_Matsutani-Nodame_Cantabile_Finale_Original_Soundtrack_And_All_Seasons_Best-2011-COCMP3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,477,Suguru_Matsutani-Nodame_Cantabile_Finale_Original_Soundtrack_And_All_Seasons_Best-2011-COCMP3,<ChomikBox.ChomikFolder: "/Prywatne/Music/Suguru_Matsutani-Nodame_Cantabile_Finale_Original_Soundtrack_And_All_Seasons_Best-2011-COCMP3/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,469,System Of A Down - 1997 - Demos 1995-1997,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,470,Demo Tape 1 (1995),<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1997 - Demos 1995-1997/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,471,Demo Tape 2 (1996),<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1997 - Demos 1995-1997/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,472,Demo Tape 3 (1997),<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1997 - Demos 1995-1997/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,473,Demo Tape 4 (1997),<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1997 - Demos 1995-1997/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,474,Untitled Demo Tape (1995),<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1997 - Demos 1995-1997/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,466,System Of A Down - 1998 - System Of A Down,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,467,Limited Edition Bonus Tracks,<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1998 - System Of A Down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,468,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 1998 - System Of A Down/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,464,System Of A Down - 2002 - Steal This Album!,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,465,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 2002 - Steal This Album!/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,462,System Of A Down - 2005 - Hypnotize,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,463,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - 2005 - Hypnotize/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,460,System of a Down - B' Sides (2005),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,461,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System of a Down - B' Sides (2005)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,458,System of a Down - Mesmerize (2005),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,459,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System of a Down - Mesmerize (2005)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,456,System Of A Down - Toxicity (2001),<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,457,PkInfo,<ChomikBox.ChomikFolder: "/Prywatne/Music/System Of A Down - Toxicity (2001)/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,455,Tim.Maia.O.melhor.de.Tim.Maia.1989-by.olinda898.www.bestuniom.com,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,442,Top 100 Masterpieces of Classical Music 1685-1928,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,443,Disc 1 - 1685-1730,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,444,Disc 10 - 1894-1928,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,445,Disc 2 - 1731-1775,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,446,Disc 3 - 1776-1787,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,447,Disc 4 - 1788-1810,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,448,Disc 5 - 1811-1841,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,449,Disc 6 - 1842-1853,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,450,Disc 7 - 1854-1866,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,451,Disc 8 - 1867-1876,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,452,Disc 9 - 1877-1893,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 100 Masterpieces of Classical Music 1685-1928/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,453,Top 20 Forro Das Antigas,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,454,Top 20 Forró Das Antigas,<ChomikBox.ChomikFolder: "/Prywatne/Music/Top 20 Forro Das Antigas/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,440,Trio Nordestino - 50 Anos - Ao Vivo,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,441,10. Trio Nordestino - 50 Anos - Ao Vivo,<ChomikBox.ChomikFolder: "/Prywatne/Music/Trio Nordestino - 50 Anos - Ao Vivo/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,439,Vitoria - Cel,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,437,WESLEY SAFADAO - GAROTA PRIME - PAULO AFONSO BA - 20-12-2015 WWW-JAIRZINHOCDS-COM-BR,<ChomikBox.ChomikFolder: "/Prywatne/Music/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,438,WESLEY SAFADAO - GAROTA PRIME - PAULO AFONSO BA - 20.12.2015 WWW.JAIRZINHOCDS.COM.BR,<ChomikBox.ChomikFolder: "/Prywatne/Music/WESLEY SAFADAO - GAROTA PRIME - PAULO AFONSO BA - 20-12-2015 WWW-JAIRZINHOCDS-COM-BR/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,376,Series,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,377,Chernobyl,<ChomikBox.ChomikFolder: "/Prywatne/Series/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1047,Youtube,<ChomikBox.ChomikFolder: "/Prywatne/Series/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1048,Free Code Camp,<ChomikBox.ChomikFolder: "/Prywatne/Series/Youtube/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,375,Software,<ChomikBox.ChomikFolder: "/Prywatne/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,390,Drivers,<ChomikBox.ChomikFolder: "/Prywatne/Software/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,391,ISO,<ChomikBox.ChomikFolder: "/Prywatne/Software/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1046,Videos,<ChomikBox.ChomikFolder: "/Prywatne/Software/" (pabloramon044)>,False,False,False,None
+<ChomikBox.Chomik: pabloramon044>,1071,teste_c,<ChomikBox.Chomik: pabloramon044>,False,False,False,None
