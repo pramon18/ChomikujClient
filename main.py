@@ -2,7 +2,7 @@
 import os
 from models.pasta import Pasta
 from models.usuario import Usuario
-
+from utils.db import iniciar_db
 
 # def salvar_pastas_arquivo(nome_arquivo, lista_pastas):
 #     arquivo = open(nome_arquivo, 'a')
@@ -26,9 +26,14 @@ if __name__ == '__main__':
     # print(len(pastas_chomik))
     # salvar_pastas_arquivo('pastas_chomikuj', pastas_chomik)
     # print('Finalizado...')
-    p = Pasta(nome="pasta1")
-    q = Pasta(nome="pasta2", pasta=p)
-    print(p)
-    print(q)
-    print(p.caminho(p.nome))
-    print(q.caminho(q.nome))
+    # p = Pasta(nome="pasta1")
+    # q = Pasta(nome="pasta2", pasta=p)
+    # print(p)
+    # print(q)
+    # print(p.caminho(p.nome))
+    # print(q.caminho(q.nome))
+    iniciar_db()
+    print('testando db')
+    user = Usuario(username="João")
+    print(user)
+    print(user.id)
