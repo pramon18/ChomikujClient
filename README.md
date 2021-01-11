@@ -4,7 +4,7 @@ Esse projeto visa criar um gerenciador de arquivos que manterá arquivos diverso
 regularmente para evitar que eles sejam apagados
 
 # Requerimentos
-Python 3.7
+Python 3.7  
 SQLAlchemy 1.3.20  
 PyChomikBox 0.2.0  
 Anytree 2.8.0
