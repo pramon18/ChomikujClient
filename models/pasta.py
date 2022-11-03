@@ -1,5 +1,5 @@
-from sqlalchemy import Column, Integer, Sequence, String, ForeignKey
-from sqlalchemy.orm import relationship
+#from sqlalchemy import Column, Integer, Sequence, String, ForeignKey
+#from sqlalchemy.orm import relationship
 
 
 class BasePasta():
