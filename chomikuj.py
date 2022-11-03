@@ -32,7 +32,7 @@ class ProgressCallback(object):
             print(par.bytes_downloaded)
         self.bar.done()
 
-c = Chomik('pabloramon044', 'Runes.Alfeus044')
+c = Chomik('user', 'senha')
 c.login()
 print(c)
 c.ssl = False
