@@ -1,10 +1,15 @@
 # Teste das funcionalidades do pyChomikBox
+from pathlib import Path
 from models.usuario import Usuario
 from repositories import usuario_repository
 import os
 from ChomikBox import ChomikDownloader, ChomikUploader
 from ChomikBox.utils.FileTransferProgressBar import FileTransferProgressBar
 from utils import db
+from dotenv import load_dotenv
+
+dotenv_path = Path('.env')
+load_dotenv(dotenv_path=dotenv_path)
 
 class ProgressCallback(object):
     def __init__(self):
@@ -45,7 +50,7 @@ def downloaded(file):
 if __name__ == '__main__':
     db.iniciar_db()
     user = None
-    user = Usuario(username="usuario", password="senha_secreta")
+    user = Usuario(username=os.getenv('USERNAME'), password=os.getenv('PASSWORD'))
     user = usuario_repository.add_usuario(user)
 
     try:
@@ -59,7 +64,7 @@ if __name__ == '__main__':
         print(user.Chomik.folders_list())   
 
         # Teste
-        print(user.listar_pastas())
+        #print(user.listar_pastas())
     # Download
 '''
 with open(listOfFiles[0].name, 'wb') as f:
