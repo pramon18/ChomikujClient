@@ -1,20 +1,18 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from models.usuario import Base as userBase
+from models.pasta import Base as pastaBase
 
 # DB
 engine = create_engine('sqlite:///db.sqlite3', echo=True)
 
 # Sessão
-session = sessionmaker(bind=engine)
+Session = sessionmaker(bind=engine, expire_on_commit=False)
 
-def iniciar_db(base, engine):
+def iniciar_db():
     # Criar tabelas
-    base.metadata.create_all(engine)
+    userBase.metadata.create_all(engine)
+    pastaBase.metadata.create_all(engine)
 
-def criar_engine():
-    # Gerar tabelas para cada model
-    from models.Chomik import Base
-    iniciar_db(Base, engine)
-
-if __name__ == '__main__':
-    criar_engine()
+if __name__ == "__main__":
+    iniciar_db()
