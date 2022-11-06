@@ -45,7 +45,7 @@ def downloaded(file):
 if __name__ == '__main__':
     db.iniciar_db()
     user = None
-    user = Usuario(username="pabloramon044", password="Runes.Alfeus044")
+    user = Usuario(username="usuario", password="senha_secreta")
     user = usuario_repository.add_usuario(user)
 
     try:
