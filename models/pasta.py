@@ -1,5 +1,4 @@
 from sqlalchemy import Column, Integer, Sequence, String, ForeignKey, Boolean
-from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
@@ -15,8 +14,8 @@ class Pasta(Base):
     __tablename__ = 'pasta'
     id = Column(Integer, Sequence('pasta_id_seq'), primary_key=True)
     nome = Column(String(100))
-    pasta_id = Column(Integer, ForeignKey("pasta.pasta_id"), nullable=True)
-    parent_id = Column(Integer, nullable=True)
+    pasta_id = Column(Integer, nullable=True)
+    parent_id = Column(Integer, ForeignKey("pasta.pasta_id"), nullable=True)
     hidden = Column(Boolean)
     adult = Column(Boolean)
     password = Column(String, nullable=True)

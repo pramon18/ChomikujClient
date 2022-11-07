@@ -1,5 +1,6 @@
 from utils import db
 from models.usuario import Usuario
+from ChomikBox import Chomik
 
 ## Consultas
 
@@ -15,6 +16,7 @@ def add_usuario(user):
         existente = get_usuario(username=user.username)
         
         if existente is not None:
+            existente.Chomik = Chomik(existente.username, existente.password)
             return existente
 
         session.add(user)

@@ -50,9 +50,9 @@ def downloaded(file):
 if __name__ == '__main__':
     db.iniciar_db()
     user = None
-    user = Usuario(username=os.getenv('USERNAME'), password=os.getenv('PASSWORD'))
+    user = Usuario(username=os.getenv('USUARIO'), password=os.getenv('SENHA'))
     user = usuario_repository.add_usuario(user)
-
+    print(user)
     try:
         user.login()
     except:
@@ -61,8 +61,9 @@ if __name__ == '__main__':
     # A partir desse ponto tenho o usuário do Chomikuj (Hopefully)
     if(user.esta_logado()):
         # Listar pastas do usuário
-        print(user.Chomik.folders_list())   
-
+        # print(user.Chomik.folders_list())   
+        # print(user.Chomik)
+        print(user.token())
         # Teste
         #print(user.listar_pastas())
     # Download

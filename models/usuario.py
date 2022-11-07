@@ -60,7 +60,7 @@ class Usuario(Base):
         if pasta_chomik.parent_folder is not None:
             parent_id = pasta_chomik.parent_folder.folder_id
         else:
-            parent_id = ""
+            parent_id = 0
 
         from repositories import pasta_repository
         from models.pasta import Pasta
@@ -79,4 +79,9 @@ class Usuario(Base):
         for pasta in lista:
             print(pasta.path)
 
+    def token(self):
+        if self.Chomik is not None:
+            return self.Chomik.get_token()
+        else:
+            return None
         
