@@ -7,6 +7,7 @@ from ChomikBox import ChomikDownloader, ChomikUploader
 from ChomikBox.utils.FileTransferProgressBar import FileTransferProgressBar
 from utils import db
 from dotenv import load_dotenv
+import time
 
 dotenv_path = Path('.env')
 load_dotenv(dotenv_path=dotenv_path)
@@ -46,12 +47,50 @@ def cls():
 def downloaded(file):
     print("{}KB {} MB".format((file.bytes_downloaded / 1024), (file.bytes_downloaded / 1048576)))
 
+def upload_file(file, filename, folder):
+    callback = ProgressCallback()
+    print(file.name)
+    uploader = folder.upload_file(file, filename, callback.progress_callback)
+    uploader.start()
+    if uploader.paused:
+        time.sleep(1)
+        uploader.resume()
+    callback.finish_callback(uploader)
+    pass
+
+def upload_files(files, dir_path, folder):
+    for file in files:
+        with open(dir_path + '/' + file, 'rb') as open_file:
+            print(open_file.name, file)
+            try:
+                time.sleep(10)
+                upload_file(open_file, file, folder)
+            except:
+                time.sleep(10)
+                upload_file(open_file, file, folder)
+    pass
+
 # TODO Melhorar a escrita do arquivo salvo e dar uma olhada no folder cache do chomikbox para ver o que é.
 if __name__ == '__main__':
+    # Pasta com arquivos
+    dir_path = 'E:\ChomikBox'
+
+    # Arquivo inteiro
+    full_file = r'Files/codex-the.sims.4.get.famous(2).zip'
+
+    # Arquivos compactados e divididos
+    compressed_files = []
+
+    # Adicionar arquivos compactados em uma lista
+    for file in os.listdir(dir_path):
+        if file != 'codex-the.sims.4.get.famous(2).zip':
+            #print(dir_path + '/' + file)
+            compressed_files.append(file)
+    
     db.iniciar_db()
     user = None
     user = Usuario(username=os.getenv('USUARIO'), password=os.getenv('SENHA'))
-    user = usuario_repository.add_usuario(user)
+    #user = usuario_repository.add_usuario(user)
     print(user)
     try:
         user.login()
@@ -60,12 +99,31 @@ if __name__ == '__main__':
 
     # A partir desse ponto tenho o usuário do Chomikuj (Hopefully)
     if(user.esta_logado()):
+        user.Chomik.ssl = False
         # Listar pastas do usuário
         # print(user.Chomik.folders_list())   
         # print(user.Chomik)
         print(user.token())
         # Teste
-        #print(user.listar_pastas())
+        pasta = user.Chomik.folders_list()[5]
+        print(user.Chomik.folders_list()[5])
+        
+        # Testar upload de arquivo e separado
+        start = time.time()
+        upload_files(compressed_files, dir_path, pasta)
+        end = time.time()
+
+        print(f"Tempo de upload com os arquivos comprimidos: {(end-start)} seconds {(end-start)/60} minutes")
+        
+
+        '''
+        start = time.time()
+        upload_file(open(full_file, 'rb'), full_file, pasta)
+        end = time.time()
+
+        print(f"Tempo de upload com o arquivo completo: {(end-start)} seconds {(end-start)/60} minutes")
+        '''
+
     # Download
 '''
 with open(listOfFiles[0].name, 'wb') as f:
