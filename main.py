@@ -8,6 +8,8 @@ from ChomikBox.utils.FileTransferProgressBar import FileTransferProgressBar
 from utils import db
 from dotenv import load_dotenv
 import time
+from repositories import pasta_repository
+from repositories import arquivo_repository
 
 dotenv_path = Path('.env')
 load_dotenv(dotenv_path=dotenv_path)
@@ -73,24 +75,26 @@ def upload_files(files, dir_path, folder):
 # TODO Melhorar a escrita do arquivo salvo e dar uma olhada no folder cache do chomikbox para ver o que é.
 if __name__ == '__main__':
     # Pasta com arquivos
-    dir_path = 'E:\ChomikBox'
+    #dir_path = 'E:\ChomikBox'
+    #dir_path = r'Files'
 
     # Arquivo inteiro
-    full_file = r'Files/codex-the.sims.4.get.famous(2).zip'
+    #full_file = r'Files/codex-the.sims.4.get.famous(2).zip'
 
     # Arquivos compactados e divididos
-    compressed_files = []
+    #compressed_files = []
 
     # Adicionar arquivos compactados em uma lista
-    for file in os.listdir(dir_path):
-        if file != 'codex-the.sims.4.get.famous(2).zip':
+    #for file in os.listdir(dir_path):
+    #    compressed_files.append(file)
+        #if file != 'codex-the.sims.4.get.famous(2).zip':
             #print(dir_path + '/' + file)
-            compressed_files.append(file)
+            #compressed_files.append(file)
     
     db.iniciar_db()
     user = None
     user = Usuario(username=os.getenv('USUARIO'), password=os.getenv('SENHA'))
-    #user = usuario_repository.add_usuario(user)
+    user = usuario_repository.add_usuario(user)
     print(user)
     try:
         user.login()
@@ -104,16 +108,22 @@ if __name__ == '__main__':
         # print(user.Chomik.folders_list())   
         # print(user.Chomik)
         print(user.token())
-        # Teste
-        pasta = user.Chomik.folders_list()[5]
-        print(user.Chomik.folders_list()[5])
+        #user.listar_pastas()
+        #print(pasta_repository.get_pastas_raiz())
         
-        # Testar upload de arquivo e separado
-        start = time.time()
-        upload_files(compressed_files, dir_path, pasta)
-        end = time.time()
+        # Teste
+        pasta = user.Chomik.folders_list()[4]
+        print(user.Chomik.folders_list()[4])
+        #user.salvar_arquivos(pasta)
 
-        print(f"Tempo de upload com os arquivos comprimidos: {(end-start)} seconds {(end-start)/60} minutes")
+        print(arquivo_repository.get_all_arquivos())
+
+        # Testar upload de arquivo e separado
+        #start = time.time()
+        #upload_files(compressed_files, dir_path, pasta)
+        #end = time.time()
+
+        #print(f"Tempo de upload com os arquivos comprimidos: {(end-start)} seconds {(end-start)/60} minutes")
         
 
         '''

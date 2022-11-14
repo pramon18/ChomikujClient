@@ -85,3 +85,15 @@ class Usuario(Base):
         else:
             return None
         
+    def salvar_arquivos(self, pasta):
+        arquivos = []
+        #assert(pasta is ChomikFolder)
+        arquivos = pasta.files_list()
+        for arquivo in arquivos:
+            #print(arquivo.file_id, arquivo.name, arquivo.path, arquivo.parent_folder.folder_id, self.id, arquivo.size, arquivo.url)
+            from repositories import arquivo_repository
+            from models.arquivo import Arquivo            
+            a = Arquivo(arquivo.name, arquivo.file_id, arquivo.parent_folder.folder_id, arquivo.path, self.id, arquivo.size, arquivo.url)
+            arquivo_repository.add_arquivo(a)
+            print(arquivo_repository.get_arquivo(a.arquivo_id))
+        pass

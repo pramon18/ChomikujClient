@@ -1,30 +1,36 @@
 from utils import db
-from models.pasta import Pasta
+from models.arquivo import Arquivo
+import json
 
 ## Consultas
 
-# Buscar pasta
-def get_pasta(pasta_id):
+# Buscar arquivo
+def get_arquivo(arquivo_id):
     with db.Session() as session:
-        return session.query(Pasta).filter_by(pasta_id=pasta_id).first()
+        return session.query(Arquivo).filter_by(arquivo_id=arquivo_id).first()
 
-# Buscar pastas raiz
-def get_pastas_raiz():
+# Buscar arquivos
+def get_all_arquivos():
     with db.Session() as session:
-        return session.query(Pasta).filter_by(parent_id=0).all()
+        return session.query(Arquivo).all()
+
+def get_all_arquivos_json():
+    with db.Session() as session:
+        list = session.query(Arquivo).all()
+        return json.dumps([x.as_dict() for x in list])
 
 ## Operacoes
 # Adicionar
-def add_pasta(pasta):
+def add_arquivo(arquivo):
     with db.Session() as session:
-        existente = get_pasta(pasta_id=pasta.pasta_id)
+        existente = get_arquivo(arquivo_id=arquivo.arquivo_id)
         
         if existente is not None:
             return existente
 
-        session.add(pasta)
+        session.add(arquivo)
         session.commit()
-        return get_pasta(pasta_id=pasta.pasta_id)
+        return get_arquivo(arquivo_id=arquivo.arquivo_id)
 
 # # Deletar
 # def delete_usuario(user):
