@@ -43,6 +43,11 @@ def add_arquivo(arquivo):
 #         session.delete(user)
 #         session.commit()
 
+def delete_all_arquivos():
+    with db.Session() as session:
+        session.execute('DELETE FROM Arquivo')
+        session.commit()
+
 # # Atualizar
 # def atualizar_usuario(user):
 #     with db.Session() as session:
