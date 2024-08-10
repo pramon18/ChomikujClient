@@ -7,9 +7,6 @@ import json
 import os
 from types import SimpleNamespace
 
-dotenv_path = Path('.env')
-load_dotenv(dotenv_path=dotenv_path)
-
 BASE_URL = os.getenv('BASE_URL')
 API_KEY = os.getenv('API_KEY')
 
