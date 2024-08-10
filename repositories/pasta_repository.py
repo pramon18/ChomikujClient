@@ -13,6 +13,13 @@ def get_pastas_raiz():
     with db.Session() as session:
         return session.query(Pasta).filter_by(parent_id=0).all()
 
+# Buscar pastas vazias
+def get_pastas_vazias():
+    with db.Session() as session:
+        sql = 'select pasta.id, pasta.nome, pasta.pasta_id, pasta.parent_id, pasta.hidden, pasta.adult, pasta.password, pasta.path, pasta.usuario_id from pasta left join arquivo on arquivo.parent_id = pasta.pasta_id where arquivo.id is null;'
+        result = session.query(Pasta).from_statement(db.text(sql)).all()
+        return result
+
 ## Operacoes
 # Adicionar
 def add_pasta(pasta):
@@ -36,6 +43,11 @@ def add_pasta(pasta):
         
 #         session.delete(user)
 #         session.commit()
+
+def delete_all_pastas():
+    with db.Session() as session:
+        session.execute('DELETE FROM Pasta')
+        session.commit()
 
 # # Atualizar
 # def atualizar_usuario(user):

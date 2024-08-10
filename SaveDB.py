@@ -16,7 +16,7 @@ if __name__ == '__main__':
     with Session(engine) as session:
         Base.metadata.create_all(engine)
 
-        user = Chomik('pabloramon044', 'Runes.Alfeus044')
+        user = Chomik('super-secret-user', 'super-secret-password')
 
         session.add(user)
         session.commit()

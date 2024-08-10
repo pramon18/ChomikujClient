@@ -1,5 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy import text
 from models.usuario import Base as userBase
 from models.pasta import Base as pastaBase
 from models.arquivo import Base as arquivoBase
