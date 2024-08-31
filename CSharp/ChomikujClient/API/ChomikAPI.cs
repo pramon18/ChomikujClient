@@ -31,12 +31,10 @@ namespace ChomikujClient.API
 
         public async Task<User> Login(string username, string password)
         {
-            System.Diagnostics.Debug.WriteLine(username, HashUtil.ComputeMD5(password).ToLower());
-
             // Login
             var content = @$"<Auth xmlns=""http://chomikuj.pl/"">
 			                    <name>{username}</name>
-			                    <passHash>{HashUtil.ComputeMD5(password).ToLower()}</passHash>
+			                    <passHash>{HashUtil.ComputeMD5(password)}</passHash>
 			                    <client>
 				                    <name>chomikbox</name>
 				                    <version>2.0.8.2</version>
@@ -57,33 +55,29 @@ namespace ChomikujClient.API
             User user = new User();
 
             var status = XMLUtil.GetValueByName(doc, "status");
-            user.ChomikID = XMLUtil.GetValueByName(doc, "hamsterId");
+            user.ID = Int64.Parse(XMLUtil.GetValueByName(doc, "hamsterId"));
             user.Name = XMLUtil.GetValueByName(doc, "name");
             user.Token = XMLUtil.GetValueByName(doc, "token");
 
             return user;
         }
 
-        public async Task<List<Folder>> GetFolders(User user, int folderID, int depth = 2)
+        public async Task<List<Models.Folder>> GetFolders(User user, Int64 folderID, int depth = 2)
         {
-            List<Folder> result = new List<Folder>();
+            List<Models.Folder> result = new List<Models.Folder>();
 
-            // USAR URL DO CHOMIKBOX como base
-            var Url = "http://box.chomikuj.pl/services/ChomikBoxService.svc";
-
-            // NESSE PONTO DEVO TER UM USUÁRIO LOGADO
-            // TENTAR PEGAR PASTAS
+            // Montar corpo
             var content = @$"<Folders xmlns=""http://chomikuj.pl/"">
-                           <token>{user.Token}</token>
-                           <hamsterId>{user.ChomikID}</hamsterId>
-                           <folderId>{folderID}</folderId>
-                           <depth>{depth}</depth>
-                          </Folders>";
+                               <token>{user.Token}</token>
+                               <hamsterId>{user.ID}</hamsterId>
+                               <folderId>{folderID}</folderId>
+                               <depth>{depth}</depth>
+                             </Folders>";
 
             // Depth 2 pega a primeira fileira, igual aparece no site.
             // Depth 0 pega tudo.
 
-            SOAPRequest request = new SOAPRequest(Url, content);
+            SOAPRequest request = new SOAPRequest(this.URL, content);
             request.headers.Add("SOAPAction", "http://chomikuj.pl/IChomikBoxService/Folders");
 
             var response = await this.SendSoapRequest(request);
@@ -96,9 +90,53 @@ namespace ChomikujClient.API
             {
                 var id = XMLUtil.GetValueByName(folder, "id");
                 var name = XMLUtil.GetValueByName(folder, "name");
-                Folder f = new Folder() { Id = id, Name = name };
+                Models.Folder f = new Models.Folder() { ID = int.Parse(id), Name = name };
                 result.Add(f);
             }
+            return result;
+        }
+
+        public async Task<List<Models.File>> GetFiles(User user, string folderPath)
+        {
+            List<Models.File> result = new List<Models.File>();
+
+            // List of Files
+            var content = @$"<Download xmlns=""http://chomikuj.pl/"">
+			                    <token>{user.Token}</token>
+			                    <sequence>
+				                    <stamp>0</stamp>
+				                    <part>0</part>
+				                    <count>1</count>
+			                    </sequence>
+			                    <disposition>download</disposition>
+			                    <list>
+				                    <DownloadReqEntry>
+					                    <id>{folderPath}</id>
+					                    <agreementInfo>
+						                    <AgreementInfo>
+							                    <name>own</name>
+						                    </AgreementInfo>
+					                    </agreementInfo>
+				                    </DownloadReqEntry>
+			                    </list>
+		                    </Download>";
+
+            SOAPRequest request = new SOAPRequest(this.URL, content);
+            request.headers.Add("SOAPAction", "http://chomikuj.pl/IChomikBoxService/Download");
+
+            var response = await this.SendSoapRequest(request);
+            XDocument doc = XDocument.Parse(response);
+
+            var files = XMLUtil.GetElementsByName(doc, "FileEntry");
+
+            foreach (var file in files)
+            {
+                var id = XMLUtil.GetValueByName(file, "id");
+                var name = XMLUtil.GetElementsByName(file, "name").Where(x => x.Value != "own").FirstOrDefault()?.Value;
+                Models.File f = new Models.File() { ID = Int64.Parse(id), Name = name };
+                result.Add(f);
+            }
+
             return result;
         }
     }

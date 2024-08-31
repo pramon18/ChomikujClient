@@ -12,7 +12,7 @@ namespace Util
             using (var md5 = MD5.Create())
             {
                 var bytes = md5.ComputeHash(Encoding.UTF8.GetBytes(value));
-                result = BitConverter.ToString(bytes, 0, bytes.Length).Replace("-", "");
+                result = BitConverter.ToString(bytes, 0, bytes.Length).Replace("-", "").ToLower();
             }
             return result;
         }

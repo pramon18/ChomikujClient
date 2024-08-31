@@ -5,6 +5,7 @@ namespace Models
     public class File
     {
         [PrimaryKey]
-        public int Id { get; set; }
+        public Int64 ID { get; set; }
+        public String Name { get; set; }
     }
 }

@@ -46,82 +46,67 @@ namespace ChomikujClient
             await PickFolder(CancellationToken.None);
         }
 
-        public class Chomik
-        {
-            public String name { get; set; } = String.Empty;
-            public String token { get; set; } = String.Empty;
-            public String chomikId { get; set; } = String.Empty;
-        }
-
         private async void LoginBtn_Clicked(object sender, EventArgs e)
         {
             System.Diagnostics.Debug.WriteLine(settings.User.User, settings.User.Password);
 
             this.user = await new ChomikAPI().Login(settings.User.User, settings.User.Password);
 
-            this.folders = new ObservableCollection<Folder>(await new ChomikAPI().GetFolders(this.user, 0));
+            var f = await new ChomikAPI().GetFolders(this.user, 0);
+
+            f = await SaveFolders(f);
+
+            this.folders = new ObservableCollection<Folder>(f);
 
             FoldersList.ItemsSource = this.folders;
-
-            // Criar métodos para login e buscar arquivos
-            foreach (var f in this.folders)
-            {
-                var folder = new Folder() { Id = f.Id, Name = f.Name };
-                DB.Connection.InsertOrReplaceAsync(folder).Wait();
-            }
         }
 
-        //private async Task<List<Folder>> GetFolders(User user, int folderId = 0)
-        //{
-        //    List<Folder> result = new List<Folder>();
+        private async Task<List<Folder>> SaveFolders(List<Folder> folders)
+        {
+            List<Folder> result = new List<Folder>();
 
-        //    // USAR URL DO CHOMIKBOX como base
-        //    var Url = "http://box.chomikuj.pl/services/ChomikBoxService.svc";
+            // Criar pasta raiz
+            var root = new Folder() { ID = 0, Name = this.user.Name, Path = "/" + this.user.Name };
 
-        //    // NESSE PONTO DEVO TER UM USUÁRIO LOGADO
-        //    // TENTAR PEGAR PASTAS
-        //    var content = @$"<Folders xmlns=""http://chomikuj.pl/"">
-        //               <token>{user.Token}</token>
-        //               <hamsterId>{user.ChomikID}</hamsterId>
-        //               <folderId>{folderId}</folderId>
-        //               <depth>2</depth>
-        //              </Folders>";
+            DB.Connection.InsertOrReplaceAsync(root).Wait();
 
-        //    // Depth 2 pega a primeira fileira, igual aparece no site.
-        //    // Depth 0 pega tudo.
+            result.Add(root);
 
-        //    SOAPRequest request = new SOAPRequest(Url, content);
-        //    request.headers.Add("SOAPAction", "http://chomikuj.pl/IChomikBoxService/Folders");
+            // Criar métodos para login e buscar arquivos
+            foreach (var f in folders)
+            {
+                Folder folder = new Folder() { ID = f.ID, Name = f.Name, Path = root.Path + "/" + f.Name };
+                DB.Connection.InsertOrReplaceAsync(folder).Wait();
+                result.Add(folder);
+            }
 
-        //    var response = await this.SendSoapRequest(request);
+            return result;
+        }
 
-        //    XDocument doc = XDocument.Parse(response);
-
-        //    var folders = XMLUtil.GetElementsByName(doc, "FolderInfo");
-
-        //    foreach (var folder in folders)
-        //    {
-        //        var id = XMLUtil.GetValueByName(folder, "id");
-        //        var name = XMLUtil.GetValueByName(folder, "name");
-        //        Folder f = new Folder() { Id = id, Name = name };
-        //        result.Add(f);
-        //    }
-        //    return result;
-        //}
+        
 
         private async void FoldersList_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            return;
-            //if (this.user == null)
-            //    await DisplayAlert("Usuário", "Usuário inválido.", "OK");
+            if (this.user == null)
+                await DisplayAlert("Usuário", "Usuário inválido.", "OK");
 
-            //var folder = e.Item as Folder;
-            //var folders = await this.GetFolders(this?.user, int.Parse(folder?.Id ?? "0"));
+            var folder = e.Item as Folder;
+            var subFolders = await new ChomikAPI().GetFolders(this.user, folder.ID);
+            var files = await new ChomikAPI().GetFiles(this.user, folder.Path);
 
-            //foreach (var f in folders)
-            //{
-            //    System.Diagnostics.Debug.WriteLine(f.Id);
-            //}
+
+            foreach (var f in subFolders)
+            {
+                Folder subFolder = new Folder() { ID = f.ID, Name = f.Name, Path = folder.Path + "/" + f.Name };
+                System.Diagnostics.Debug.WriteLine(subFolder.ID.ToString(), subFolder.Name, subFolder.Path);
+                DB.Connection.InsertOrReplaceAsync(subFolder).Wait();
+            }
+
+            foreach (var f in files)
+            {
+                System.Diagnostics.Debug.WriteLine(f.ID, f.Name);
+                DB.Connection.InsertOrReplaceAsync(f).Wait();
+            }
         }
     }
 }

@@ -5,7 +5,7 @@ namespace Models
     public class User
     {
         [PrimaryKey]
-        public string ChomikID { get; set; }
+        public Int64 ID { get; set; }
         public string Name { get; set; }
         public string? Token { get; set; }
     }
