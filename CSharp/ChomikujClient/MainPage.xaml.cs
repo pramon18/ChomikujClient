@@ -2,11 +2,13 @@
 using CommunityToolkit.Maui.Core;
 using CommunityToolkit.Maui.Storage;
 using Database;
+using Microsoft.Extensions.Configuration;
 using Models;
 using System.Collections.ObjectModel;
 using System.Text;
 using System.Xml.Linq;
 using Util;
+using static ChomikujClient.MauiProgram;
 
 namespace ChomikujClient
 {
@@ -18,6 +20,9 @@ namespace ChomikujClient
         private HttpClient _httpClient = new HttpClient();
         private ObservableCollection<Folder> folders = new ObservableCollection<Folder>();
         private Chomik? user = null;
+
+        private Settings settings = MauiProgram.Services?.GetService<IConfiguration>()?.GetRequiredSection("Settings").Get<Settings>()!;
+
         public MainPage()
         {
             InitializeComponent();
@@ -117,18 +122,18 @@ namespace ChomikujClient
 
             List<String> actions = new List<String>(){ "Auth", "Folders" };
 
+            System.Diagnostics.Debug.WriteLine(settings.User.User, settings.User.Password);
+
             // Login
-            var content = @"<Auth xmlns=""http://chomikuj.pl/"">
-			                    <name>pabloramon044</name>
-			                    <passHash>4fc9cf03808c61421623b801e9f77d8f</passHash>
+            var content = @$"<Auth xmlns=""http://chomikuj.pl/"">
+			                    <name>{settings.User.User}</name>
+			                    <passHash>{HashUtil.ComputeMD5(settings.User.Password)}</passHash>
 			                    <client>
 				                    <name>chomikbox</name>
 				                    <version>2.0.8.2</version>
 			                    </client>
                                 <ver>4</ver>
                             </Auth>";
-
-            System.Diagnostics.Debug.WriteLine(User, Password);
 
             // Montar requisição
             SOAPRequest request = new SOAPRequest(Url, content);
@@ -143,7 +148,6 @@ namespace ChomikujClient
             this.user = new Chomik();
 
             var status = XMLUtil.GetValueByName(doc, "status");
-
             this.user.chomikId = XMLUtil.GetValueByName(doc, "hamsterId");
             this.user.name = XMLUtil.GetValueByName(doc, "name");
             this.user.token = XMLUtil.GetValueByName(doc, "token");
@@ -153,7 +157,6 @@ namespace ChomikujClient
             FoldersList.ItemsSource = this.folders;
 
             // Criar métodos para login e buscar arquivos
-
             foreach(var f in this.folders)
             {
                 var folder = new Folder() { Id = f.Id, Name = f.Name };
