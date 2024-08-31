@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
-CSharp/ChomikujClient/bin
-CSharp/ChomikujClient/obj
-CSharp/.vs

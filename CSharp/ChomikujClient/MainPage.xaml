@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="ChomikujClient.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90*"/>
+                    <ColumnDefinition Width="10*"/>                    
+                </Grid.ColumnDefinitions>
+                <Editor Grid.Column="0"/>
+                <Button
+                    x:Name="PickFolderBtn"
+                    Grid.Column="1"
+                    Text="Pick" 
+                    Clicked="PickFolderBtn_Clicked"
+                    HorizontalOptions="Fill" />
+            </Grid>
+            <Label Text="Pasta Local"/>
+            <Label x:Name="lblLocalPath" Text=""/>
+            <Button
+                x:Name="LoginBtn"
+                Text="Login" 
+                Clicked="LoginBtn_Clicked"
+                HorizontalOptions="Fill" />
+            <ListView x:Name="FoldersList" ItemTapped="FoldersList_ItemTapped">
+                <ListView.Header>
+                    <VerticalStackLayout>
+                        <Label Text="Pastas Remotas"/>
+                    </VerticalStackLayout>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="80*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" Text="{Binding Id}"/>
+                                <Label Grid.Column="1" Text="{Binding Name}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

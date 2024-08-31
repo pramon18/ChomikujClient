@@ -62,13 +62,13 @@ class Usuario(Base):
         else:
             parent_id = 0
 
-        from repositories import pasta_repository
-        from models.pasta import Pasta
+        # from repositories import pasta_repository
+        # from models.pasta import Pasta
 
-        pasta_repository.add_pasta(Pasta(pasta_chomik.name, pasta_chomik.password, pasta_chomik.folder_id, parent_id, pasta_chomik.path, pasta_chomik.hidden, pasta_chomik.adult, self.id))
+        # pasta_repository.add_pasta(Pasta(pasta_chomik.name, pasta_chomik.password, pasta_chomik.folder_id, parent_id, pasta_chomik.path, pasta_chomik.hidden, pasta_chomik.adult, self.id))
         
-        # Salvar arquivos da pasta
-        self.salvar_arquivos(pasta_chomik)
+        # # Salvar arquivos da pasta
+        # self.salvar_arquivos(pasta_chomik)
 
         # Para cada pasta dentro dela faça esse método novamente
         # Se não houver pastas somente retorne
@@ -93,12 +93,12 @@ class Usuario(Base):
         #assert(pasta is ChomikFolder)
         arquivos = pasta.files_list()
         
-        if arquivos != [] and arquivos != None:
-            for arquivo in arquivos:
-                #print(arquivo.file_id, arquivo.name, arquivo.path, arquivo.parent_folder.folder_id, self.id, arquivo.size, arquivo.url)
-                from repositories import arquivo_repository
-                from models.arquivo import Arquivo            
-                a = Arquivo(arquivo.name, arquivo.file_id, arquivo.parent_folder.folder_id, arquivo.path, self.id, arquivo.size, arquivo.url)
-                arquivo_repository.add_arquivo(a)
-                print(arquivo_repository.get_arquivo(a.arquivo_id))
-            pass
+        # if arquivos != [] and arquivos != None:
+        #     for arquivo in arquivos:
+        #         #print(arquivo.file_id, arquivo.name, arquivo.path, arquivo.parent_folder.folder_id, self.id, arquivo.size, arquivo.url)
+        #         from repositories import arquivo_repository
+        #         from models.arquivo import Arquivo            
+        #         a = Arquivo(arquivo.name, arquivo.file_id, arquivo.parent_folder.folder_id, arquivo.path, self.id, arquivo.size, arquivo.url)
+        #         arquivo_repository.add_arquivo(a)
+        #         print(arquivo_repository.get_arquivo(a.arquivo_id))
+        #     pass
