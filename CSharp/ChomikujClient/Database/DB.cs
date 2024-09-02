@@ -6,10 +6,7 @@ namespace Database
     public class DB
     {
         private static SQLiteAsyncConnection? _connection = null;
-        //private static readonly string _databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "chomik.db3");
-
-        private static readonly string _databasePath = Path.Combine("C:\\Users\\pablo\\Downloads", "chomik.db3");
-
+        private static readonly string _databasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "chomik.db3");
 
         public static SQLiteAsyncConnection Connection 
         { 

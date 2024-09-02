@@ -3,7 +3,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Services;
 using Services.Interfaces;
-using System.IO;
 using System.Reflection;
 
 namespace ChomikujClient
@@ -35,6 +34,7 @@ namespace ChomikujClient
 #if DEBUG
             builder.Logging.AddDebug();
 #endif
+            builder.Services.AddSingleton<MainPage>();
             builder.Services.AddSingleton<IAPIService, APIService>();
 
             var app = builder.Build();
