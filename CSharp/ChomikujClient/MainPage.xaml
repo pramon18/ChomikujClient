@@ -27,6 +27,11 @@
                 Text="Login" 
                 Clicked="LoginBtn_Clicked"
                 HorizontalOptions="Fill" />
+            <Button
+                x:Name="BuscarPastasBtn"
+                Text="Buscar Pastas" 
+                Clicked="BuscarPastasBtn_Clicked"
+                HorizontalOptions="Fill" />
             <ListView x:Name="FoldersList" ItemTapped="FoldersList_ItemTapped">
                 <ListView.Header>
                     <VerticalStackLayout>
